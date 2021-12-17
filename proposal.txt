@@ -1,0 +1,24 @@
+CHESS GAME
+Group Members:
+	Aima Khattak
+	Danish Yaqub
+	Izhan Shaur Awan
+
+Description:
+The project is a chess game. The game will have a user interface. There will be two options either a one-on-one match with two user inputs or a match against an AI computer. 
+The one-on-one match will be played by the two users with both of them having to enter their moves. The first user will have the choice to pick back or white. 
+The AI computer game will be played with only one user and against the computer. The user will have the option to decide black or white. The moves made by the computer will be the legal moves it can make using alpha beta pruning algorithm.
+
+Division:
+Danish Yaqub:
+	Alpha beta pruning 
+	Detect checkmate
+	Detect checks and attacks
+Aima Khattak:
+	Detect repetition
+	Computer moves
+	Parses and creates fens
+Izhan Shaur Awan
+	User interface 
+	Alpha beta pruning
+	Define board value
